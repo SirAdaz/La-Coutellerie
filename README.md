@@ -30,3 +30,4 @@ Aucune installation supplémentaire nécessaire.
 ## Auteur
 
 - **SirAdaz** – [GitHub](https://github.com/SirAdaz)
+- **katsuyacorp** – [GitHub](https://github.com/katsuyacorp)
